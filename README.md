@@ -9,3 +9,5 @@
 - Não deixe os veículos te atropelarem
 - CUIDADO: ***Quando o ator é atingido ele retorna par ao inicio da via***  
 ---
+
+<img src = "https://www.creativefabrica.com/wp-content/uploads/2018/10/Loading-download-logo-by-DEEMKA-STUDIO-10-580x406.jpg" width ="220" height="170"/>
